@@ -22,11 +22,11 @@ HELLO → KHOOR
 
 🚀 How It Works?
 This project uses:
-ASCII values of characters
-Modular arithmetic for wrap-around (Z → A)
-Separate handling for uppercase and lowercase letters
+ASCII values of characters,
+Modular arithmetic for wrap-around (Z → A),
+Separate handling for uppercase and lowercase letters.
 
 Technologies Used:
-Python 3
-ASCII character manipulation
-Basic cryptography concepts
+Python 3,
+ASCII character manipulation,
+Basic cryptography concepts.
